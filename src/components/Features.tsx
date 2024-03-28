@@ -35,8 +35,8 @@ const Features = () => {
           Why us?
         </h1>
         <p className="text-md mt-6 mb-16 text-gray-500 text-center">
-          With automated code conversion, you don't have to spend hours manually
-          rewriting
+          With automated code conversion, you don&apos;t have to spend hours
+          manually rewriting
           <br /> code in a different language.
         </p>
       </div>
