@@ -18,7 +18,7 @@ const Pricing = () => {
         <div className="text-center mt-4">
           New users get 10 credits for free.{" "}
           <Link
-            href="/login"
+            href="/api/auth/signin"
             className="underline hover:text-[#C84630] transition duration-300"
           >
             Login
