@@ -23,7 +23,7 @@ const Navbar = async (props: Props) => {
   console.log(session);
 
   return (
-    <div className="flex justify-between ">
+    <div className="flex justify-between px-20 py-2">
       <Link href="/">
         <Image
           src="/logo.png"

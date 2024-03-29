@@ -11,7 +11,7 @@ export default function RootLayout({
 }>) {
   return (
     <html lang="en">
-      <body className="px-20 py-2">
+      <body>
         <SessionProvider>
           <Navbar />
           {children}

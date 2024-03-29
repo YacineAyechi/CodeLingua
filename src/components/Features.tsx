@@ -11,7 +11,7 @@ const features = [
     icon: "/zap.svg",
     title: "No Setup Required",
     description:
-      "We use advanced AI models to ensure that your code is converted with the highest accuracy and quality.",
+      "No need to download or install any software. Simply paste your code and click a button to convert it to your desired language.",
   },
   {
     icon: "/infinity.svg",

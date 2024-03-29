@@ -14,7 +14,7 @@ const Footer = async (props: Props) => {
   const currentYear = new Date().getFullYear();
 
   return (
-    <div className="flex justify-center">
+    <div className="flex justify-center px-20 py-2">
       <div className="text-center">
         <div className="flex justify-center mb-2">
           <BiLogoFacebookCircle className="size-7 mr-2 cursor-pointer hover:text-[#C84630] transition duration-300" />

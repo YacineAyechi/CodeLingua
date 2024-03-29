@@ -6,6 +6,7 @@ import Link from "next/link";
 const Supported = () => {
   const languageImages = fs
     .readdirSync(path.join(process.cwd(), "public", "languages"))
+    .filter((fileName) => fileName !== "default")
     .map((fileName) => ({
       src: `/languages/${fileName}`,
       alt: fileName,
