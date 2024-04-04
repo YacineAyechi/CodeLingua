@@ -45,7 +45,7 @@ const Features = () => {
           {features.map((feature, index) => (
             <div key={index} className="relative pl-16 ">
               <div className="text-base font-semibold leading-7 text-gray-900">
-                <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-green-100">
+                <div className="absolute left-0 top-0 flex h-10 w-10 items-center justify-center rounded-lg bg-[#c8473037]">
                   <Image
                     className="h-6 w-6"
                     width={24}
