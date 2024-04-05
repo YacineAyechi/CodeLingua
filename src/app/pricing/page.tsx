@@ -78,7 +78,7 @@ const Pricing = () => {
 
         <Card className="w-[300px] h-[600px]">
           <CardHeader>
-            <div className="absolute top-[278px] right-[630px]">
+            <div className="absolute top-[295px] right-[630px]">
               <p className="bg-[#c1e8f7] text-[#0b72e0] py-[5px] px-[10px] rounded-md font-bold text-sm">
                 Most Popular
               </p>
@@ -205,7 +205,7 @@ const Pricing = () => {
 
         <Card className="w-[300px] h-[600px]">
           <CardHeader>
-            <div className="absolute top-[278px] right-[185px]">
+            <div className="absolute top-[295px] right-[185px]">
               <p className="bg-[#f8ecb2] text-black py-[5px] px-[10px] rounded-md font-bold text-sm">
                 Save 50%
               </p>
