@@ -20,7 +20,6 @@ function SignOut() {
 
 const Navbar = async (props: Props) => {
   const session = await auth();
-  console.log(session);
 
   return (
     <div className="flex justify-between px-20 py-2">
